@@ -1,0 +1,9 @@
+readme.md
+instance
+venv
+.venv
+.idea
+LICENSE
+Dockerfile
+.git
+.gitignore
